@@ -1,0 +1,16 @@
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\bin\Debug\net5.0\gameplayAlgorithm.exe
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\bin\Debug\net5.0\gameplayAlgorithm.deps.json
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\bin\Debug\net5.0\gameplayAlgorithm.runtimeconfig.json
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\bin\Debug\net5.0\gameplayAlgorithm.runtimeconfig.dev.json
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\bin\Debug\net5.0\gameplayAlgorithm.dll
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\bin\Debug\net5.0\gameplayAlgorithm.pdb
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\obj\Debug\net5.0\gameplayAlgorithm.csproj.AssemblyReference.cache
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\obj\Debug\net5.0\gameplayAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\obj\Debug\net5.0\gameplayAlgorithm.AssemblyInfoInputs.cache
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\obj\Debug\net5.0\gameplayAlgorithm.AssemblyInfo.cs
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\obj\Debug\net5.0\gameplayAlgorithm.csproj.CoreCompileInputs.cache
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\obj\Debug\net5.0\gameplayAlgorithm.dll
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\obj\Debug\net5.0\refint\gameplayAlgorithm.dll
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\obj\Debug\net5.0\gameplayAlgorithm.pdb
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\obj\Debug\net5.0\gameplayAlgorithm.genruntimeconfig.cache
+E:\UHKREMOTE\Happiness algorithm\gameplayAlgorithm\obj\Debug\net5.0\ref\gameplayAlgorithm.dll

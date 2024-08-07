@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wsAanVDnk2/Yxd4pc4yVk+b2CDF6H50VoHP5OIRS8g4Xcj6Jz1190+yCKqRNXBaTSllQ30uZHzJp0CGqiDsE4g==",
+  "success": true,
+  "projectFilePath": "E:\\UHKREMOTE\\Happiness algorithm\\gameplayAlgorithm\\gameplayAlgorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
